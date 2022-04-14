@@ -1,0 +1,21 @@
+{
+  "name": "mtfetch",
+  "version": "1.0.2",
+  "description": "request package from martin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mtfetch",
+    "fetch",
+    "axios",
+    "ajax"
+  ],
+  "author": "Martin",
+  "license": "MIT",
+  "dependencies": {
+    "mtfetch": "^1.0.1",
+    "node-fetch": "^2.6.1"
+  }
+}
